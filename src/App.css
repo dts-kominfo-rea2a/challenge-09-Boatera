@@ -1,4 +1,5 @@
 .App {
   text-align: center;
-  display: flex;
+  display: block;
+  margin: 2% 30% 2% 30%;
 }

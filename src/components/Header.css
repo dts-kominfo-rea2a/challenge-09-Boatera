@@ -1,0 +1,10 @@
+.header {
+    display: block;
+}
+
+hr {
+    border: 10px dotted palevioletred;
+    border-style: none none dotted;
+    margin-bottom: 40px;
+
+}
